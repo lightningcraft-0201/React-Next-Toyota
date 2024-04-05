@@ -4,7 +4,7 @@ Welcome to the Toyota Website repository! This project represents a cutting-edge
 
 **Live Site URL**: [Toyota Website](https://www.toyota.com.br)
 
-![Toyota Website](https://github.com/DevRex-0201/WP-Toyota/blob/main/wp-content/preview.png)
+![Toyota Website](https://github.com/DevRex-0201/Project-Images/blob/main/web/wp-todyta-preview.jpeg)
 
 ## Project Overview
 
@@ -29,7 +29,7 @@ To set up this project locally, follow these steps:
 
 ## Design Preview
 
-![Figma Design](https://github.com/DevRex-0201/WP-Toyota/blob/main/wp-content/Figma_Toyota%20Sales.png)
+![Figma Design](https://github.com/DevRex-0201/Project-Images/blob/main/web/wp-todyta-design.jpeg)
 
 ## Contributions and Feedback
 
