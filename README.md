@@ -1,6 +1,6 @@
 # Toyota Website
 
-Welcome to the Toyota Website repository! This project represents a cutting-edge website built on WordPress, utilizing Bootstrap and JQuery for responsive design. With a focus on user experience and search engine optimization, this website offers a seamless interface for visitors. The design elements were meticulously crafted using Figma, ensuring both aesthetic appeal and functionality.
+Welcome to the Toyota Website repository! This project represents a cutting-edge website built on React and Next.js, utilizing Bootstrap for responsive design. With a focus on user experience and search engine optimization, this website offers a seamless interface for visitors. The design elements were meticulously crafted using Figma, ensuring both aesthetic appeal and functionality.
 
 **Live Site URL**: [Toyota Website](https://www.toyota.com.br)
 
@@ -12,7 +12,6 @@ The Toyota Website is a testament to advanced web development, combining the pow
 
 ## Features
 
-- **WordPress Development**: The website is built on WordPress, allowing for easy content management and updates.
 - **Responsive Design**: Bootstrap and JQuery were employed to create a responsive and visually appealing design across various devices and screen sizes.
 - **SEO Enhancements**: The SEOPress Plugin was utilized to implement SEO best practices, ensuring optimal search engine visibility.
 - **Figma Design**: The website's interface was designed using Figma, focusing on intuitive navigation and engaging visuals.
@@ -22,10 +21,9 @@ The Toyota Website is a testament to advanced web development, combining the pow
 To set up this project locally, follow these steps:
 
 1. **Clone the Repository**: `git clone <repository-url>`
-2. **WordPress Configuration**: Set up WordPress and activate the theme in the WordPress admin panel.
-3. **Customization**: Implement the design elements from Figma, ensuring a consistent and visually appealing user interface.
-4. **Responsive Testing**: Thoroughly test the website's responsiveness and functionality across various devices and browsers.
-5. **SEO Optimization**: Verify the SEO enhancements implemented with the SEOPress Plugin to ensure optimal search engine performance.
+2. **Customization**: Implement the design elements from Figma, ensuring a consistent and visually appealing user interface.
+3. **Responsive Testing**: Thoroughly test the website's responsiveness and functionality across various devices and browsers.
+4. **SEO Optimization**: Verify the SEO enhancements implemented with the SEOPress Plugin to ensure optimal search engine performance.
 
 ## Design Preview
 
